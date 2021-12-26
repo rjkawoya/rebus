@@ -179,9 +179,9 @@ Describe your changes and submit your pull request
 
 ## What's next?
 
-🎉 Congratulations 🎉
+🎉 Congratulations! 🎉
 
-You just took your first step as an open source contributor. Your pull request will be reviewed as soon as possible.
+You just took your first step as an open source contributor! Your pull request will be reviewed as soon as possible.
 Join us on [gitter](https://gitter.im/rebus-contributors/Lobby) if you have questions or need any help. If you feel like
 it, please give this repository a star ⭐.
 
